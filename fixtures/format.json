@@ -1,0 +1,90 @@
+{
+  "tables": {
+    "plots": [
+      "plot",
+      "cell",
+      "year",
+      "class",
+      "design_weight",
+      "paired",
+      "response",
+      "known_year"
+    ],
+    "cells": [
+      "cell",
+      "area_ha",
+      "stratum",
+      "zone_v1",
+      "zone_v2",
+      "published_zone",
+      "revision_known"
+    ],
+    "imagery": [
+      "product",
+      "cell",
+      "year",
+      "class",
+      "coverage"
+    ],
+    "field-options": [
+      "route",
+      "cells",
+      "window",
+      "hours",
+      "paired_access"
+    ],
+    "certificates": [
+      "letter",
+      "zone",
+      "known_year",
+      "scope",
+      "status",
+      "ci_max_width"
+    ],
+    "effort": [
+      "window",
+      "hours",
+      "reserved_cells"
+    ],
+    "validation-plots": [
+      "sample",
+      "product",
+      "cell",
+      "year",
+      "observed_class",
+      "predicted_class"
+    ]
+  },
+  "links": [
+    [
+      "plots",
+      "cell",
+      "cells",
+      "cell"
+    ],
+    [
+      "imagery",
+      "cell",
+      "cells",
+      "cell"
+    ],
+    [
+      "validation-plots",
+      "product",
+      "imagery",
+      "product"
+    ],
+    [
+      "validation-plots",
+      "cell",
+      "cells",
+      "cell"
+    ],
+    [
+      "field-options",
+      "window",
+      "effort",
+      "window"
+    ]
+  ]
+}

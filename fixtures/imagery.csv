@@ -1,0 +1,10 @@
+product,cell,year,class,coverage
+I1,C1,1,forest,1
+I1,C2,1,forest,1
+I1,C3,1,forest,0.7
+I1,C5,1,forest,1
+I2,C1,2,open,1
+I2,C2,2,open,1
+I2,C3,2,open,0.5
+I2,C4,2,open,0.9
+I2,C5,2,forest,1

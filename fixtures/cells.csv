@@ -1,0 +1,6 @@
+cell,area_ha,stratum,zone_v1,zone_v2,published_zone,revision_known
+C1,40,valley,W,W,W,1
+C2,70,slopes,W,W,W,1
+C3,90,slopes,W,E,W,3
+C4,35,edge,-,E,E,2
+C5,32,valley,E,E,E,1

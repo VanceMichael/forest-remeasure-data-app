@@ -1,0 +1,4 @@
+route,cells,window,hours,paired_access
+R1,C2|C3,early,7,true
+R2,C3|C4,late,5,false
+R3,C1|C5,early,6,true

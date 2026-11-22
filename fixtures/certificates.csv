@@ -1,0 +1,3 @@
+letter,zone,known_year,scope,status,ci_max_width
+V1,W,2,shared,signed,0.30
+V2,E,2,current,pending,0.25

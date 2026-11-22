@@ -1,0 +1,9 @@
+sample,product,cell,year,observed_class,predicted_class
+V1,I1,C1,1,forest,forest
+V2,I1,C1,1,forest,forest
+V3,I1,C5,1,open,forest
+V4,I1,C2,1,forest,open
+V5,I2,C1,2,forest,open
+V6,I2,C2,2,open,open
+V7,I2,C4,2,open,open
+V8,I2,C5,2,forest,forest
